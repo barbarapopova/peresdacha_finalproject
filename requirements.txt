@@ -1,0 +1,7 @@
+numpy >= 1.12.1
+scikit-learn >= 0.18.1
+pandas == 1.1.2
+requests == 2.24.0
+Flask==1.0.3
+pyTelegramBotAPI==3.6.6
+russtress==0.1.4
